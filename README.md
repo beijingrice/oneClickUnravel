@@ -1,2 +1,2 @@
-# oneClickUnravel
-This is a tool, coded by Python, let you use a easy-to-use GUI application to generate a video, suit for "Unravel" (A music).
+# One-click Unravel
+A tool in Python with an easy-to-use GUI for generating videos using a static image. Suitable for the song _Unravel_.
